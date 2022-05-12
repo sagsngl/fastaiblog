@@ -1,1 +1,1 @@
-Sitemap: https://fastpages.fast.ai/sitemap.xml
+Sitemap: https://sagsngl.github.io/fastaiblog/sitemap.xml
